@@ -17,7 +17,7 @@ mkdir -p /tmp/bscher-dev-utils
 mkdir -p /tmp/bscher-dev-utils
 cd /tmp/bscher-dev-utils
 rm -rf ./dev-utils || /usr/bin/true
-git clone git@github.com:bscher/dev-utils.git
+git clone https://github.com/bscher/dev-utils.git
 
 # Run install script
 cd /tmp/bscher-dev-utils/dev-utils/
