@@ -1,7 +1,0 @@
-alias editrc='vim ~/.bash_custom ; . ~/.bash_custom ;'
-
-alias sshs='ssh -4gtA blake@blake-miniserver "bash -l"'
-
-alias gits='git status'
-alias gitlog='git log --oneline --graph'
-
